@@ -1,0 +1,6 @@
+   moabb
+   braindecode
+   torch
+   numpy
+   scipy
+   scikit-learn
